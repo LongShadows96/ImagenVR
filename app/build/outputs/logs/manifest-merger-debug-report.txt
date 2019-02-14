@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8e6b9df8f24c7992b7712027b7a9480e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\577d4b0a4465c74f640813335fd0f9c5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\16d0845525bf50d1b67022bf1983bfd6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.vr:sdk-audio:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.80.0.aar\dcc853177b2aba16f7d4c90560a650df\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.vr:sdk-panowidget:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.120.0.aar\71a06a1164872fec4ffcf74fa66e17a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\9238379b9cfbb8acf1700b7fee74c305\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dfca036196055468ade0a44606488209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7b2f49551641a7a77050f50cc6d303ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.muddzdev:styleabletoast:2.0.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\styleabletoast-2.0.1.aar\c0478c87c5db61279915d2100481fe6d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\630493a8c7397870ee4c4beb8883a874\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\11ace9ba3544bdddc143effcc5bb1296\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a200a20eb87a9019434066eacd183539\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d84e66e165d2d74d59fdd68075d76348\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\54e7db9987ef9d4d82cd5017c7390695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\013d87996e2682e04918f912979ccaf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ab3e905b243eaddfce0b77015da9edfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\904a38940074449397bf036184f23184\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f4fea3688ee407f81f04e52072056ce3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bf458c2129b11bb2341877fd5bc3e117\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5f79b072ff7e46cec67c67b8e8ef1543\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\849a5b41b975618cc49241536b37d4b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\692c05b7e67d6b2f5f00a357ff422b83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a57a411928905001498641ab047ae085\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\484232bfb4f2f473ee0683ceba0fda93\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05cb5b184400e537c4884e3fa7d46625\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c85dab2e2e3e2137df06a96cde3ff134\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b679da3b3da22a55ca468e1e57c816d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\41e4ce777eddb1b0ec2448c5b22c7de6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b235a7b78291eed8692243f56de234d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\352d001c0b239ed7b03567e930c819a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7e1aa6eda8640191de24db714864fa1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f1507a61146c5626c3daf2da7636c2ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2be2378685b78d4063104cb92b272a60\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af347132e0cf9b9b431aeb398bcc2bb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.vr:sdk-commonwidget:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.120.0.aar\e40c85504846b6f424dc807ac49a9fba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-common:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-common-1.120.0.aar\b6f13a2346b471eef1708593301f229d\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\577d4b0a4465c74f640813335fd0f9c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\577d4b0a4465c74f640813335fd0f9c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\16d0845525bf50d1b67022bf1983bfd6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\16d0845525bf50d1b67022bf1983bfd6\AndroidManifest.xml:9:5-20
+MERGED from [com.muddzdev:styleabletoast:2.0.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\styleabletoast-2.0.1.aar\c0478c87c5db61279915d2100481fe6d\AndroidManifest.xml:11:5-47
+MERGED from [com.muddzdev:styleabletoast:2.0.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\styleabletoast-2.0.1.aar\c0478c87c5db61279915d2100481fe6d\AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a57a411928905001498641ab047ae085\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a57a411928905001498641ab047ae085\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\484232bfb4f2f473ee0683ceba0fda93\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\484232bfb4f2f473ee0683ceba0fda93\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a57a411928905001498641ab047ae085\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:11:9-40
+activity#dm160304.udb.edu.sv.imagenvr.MainActivity
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:16:27-74
+activity#dm160304.udb.edu.sv.imagenvr.PanoramicActivity
+ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:19:9-159
+	android:screenOrientation
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:19:53-90
+	android:theme
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:19:91-147
+	android:name
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml:19:19-52
+uses-sdk
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8e6b9df8f24c7992b7712027b7a9480e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8e6b9df8f24c7992b7712027b7a9480e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\577d4b0a4465c74f640813335fd0f9c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\577d4b0a4465c74f640813335fd0f9c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\16d0845525bf50d1b67022bf1983bfd6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\16d0845525bf50d1b67022bf1983bfd6\AndroidManifest.xml:7:5-43
+MERGED from [com.google.vr:sdk-audio:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.80.0.aar\dcc853177b2aba16f7d4c90560a650df\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-audio:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-audio-1.80.0.aar\dcc853177b2aba16f7d4c90560a650df\AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-panowidget:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.120.0.aar\71a06a1164872fec4ffcf74fa66e17a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-panowidget:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.120.0.aar\71a06a1164872fec4ffcf74fa66e17a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\9238379b9cfbb8acf1700b7fee74c305\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\9238379b9cfbb8acf1700b7fee74c305\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dfca036196055468ade0a44606488209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dfca036196055468ade0a44606488209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7b2f49551641a7a77050f50cc6d303ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7b2f49551641a7a77050f50cc6d303ad\AndroidManifest.xml:20:5-44
+MERGED from [com.muddzdev:styleabletoast:2.0.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\styleabletoast-2.0.1.aar\c0478c87c5db61279915d2100481fe6d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.muddzdev:styleabletoast:2.0.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\styleabletoast-2.0.1.aar\c0478c87c5db61279915d2100481fe6d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\630493a8c7397870ee4c4beb8883a874\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\630493a8c7397870ee4c4beb8883a874\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\11ace9ba3544bdddc143effcc5bb1296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\11ace9ba3544bdddc143effcc5bb1296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a200a20eb87a9019434066eacd183539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a200a20eb87a9019434066eacd183539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d84e66e165d2d74d59fdd68075d76348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d84e66e165d2d74d59fdd68075d76348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\54e7db9987ef9d4d82cd5017c7390695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\54e7db9987ef9d4d82cd5017c7390695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\013d87996e2682e04918f912979ccaf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\013d87996e2682e04918f912979ccaf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ab3e905b243eaddfce0b77015da9edfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ab3e905b243eaddfce0b77015da9edfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\904a38940074449397bf036184f23184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\904a38940074449397bf036184f23184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f4fea3688ee407f81f04e52072056ce3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f4fea3688ee407f81f04e52072056ce3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bf458c2129b11bb2341877fd5bc3e117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bf458c2129b11bb2341877fd5bc3e117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5f79b072ff7e46cec67c67b8e8ef1543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5f79b072ff7e46cec67c67b8e8ef1543\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\849a5b41b975618cc49241536b37d4b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\849a5b41b975618cc49241536b37d4b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\692c05b7e67d6b2f5f00a357ff422b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\692c05b7e67d6b2f5f00a357ff422b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a57a411928905001498641ab047ae085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a57a411928905001498641ab047ae085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\484232bfb4f2f473ee0683ceba0fda93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\484232bfb4f2f473ee0683ceba0fda93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05cb5b184400e537c4884e3fa7d46625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05cb5b184400e537c4884e3fa7d46625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c85dab2e2e3e2137df06a96cde3ff134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c85dab2e2e3e2137df06a96cde3ff134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b679da3b3da22a55ca468e1e57c816d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b679da3b3da22a55ca468e1e57c816d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\41e4ce777eddb1b0ec2448c5b22c7de6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\41e4ce777eddb1b0ec2448c5b22c7de6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b235a7b78291eed8692243f56de234d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b235a7b78291eed8692243f56de234d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\352d001c0b239ed7b03567e930c819a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\352d001c0b239ed7b03567e930c819a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7e1aa6eda8640191de24db714864fa1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7e1aa6eda8640191de24db714864fa1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f1507a61146c5626c3daf2da7636c2ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f1507a61146c5626c3daf2da7636c2ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2be2378685b78d4063104cb92b272a60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2be2378685b78d4063104cb92b272a60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af347132e0cf9b9b431aeb398bcc2bb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\af347132e0cf9b9b431aeb398bcc2bb1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.vr:sdk-commonwidget:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.120.0.aar\e40c85504846b6f424dc807ac49a9fba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-commonwidget:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.120.0.aar\e40c85504846b6f424dc807ac49a9fba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-common-1.120.0.aar\b6f13a2346b471eef1708593301f229d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.120.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-common-1.120.0.aar\b6f13a2346b471eef1708593301f229d\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kdomi\Documents\ImagenVR\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:6:52-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:10:22-78
+uses-feature#android.software.vr.mode
+ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:13:5-85
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:13:59-83
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:13:19-58
+uses-feature#android.hardware.vr.high_performance
+ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:15:5-97
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:15:71-95
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.80.0] C:\Users\kdomi\.gradle\caches\transforms-1\files-1.1\sdk-base-1.80.0.aar\d7352932dabf7bf11458bf8803e242a6\AndroidManifest.xml:15:19-70
